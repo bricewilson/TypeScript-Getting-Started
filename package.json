@@ -1,0 +1,15 @@
+{
+  "name": "multimath",
+  "version": "1.0.0",
+  "description": "Simple math game for demonstrating modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/http-server"
+  },
+  "author": "Brice Wilson",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
