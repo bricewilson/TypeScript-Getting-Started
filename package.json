@@ -1,0 +1,16 @@
+{
+  "name": "multimath",
+  "version": "4.0.0",
+  "description": "Simple math game built with TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Brice Wilson",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "4.38.0",
+    "webpack-cli": "3.3.6",
+    "webpack-dev-server": "3.7.2"
+  }
+}
