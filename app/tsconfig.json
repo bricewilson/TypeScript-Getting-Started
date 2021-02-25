@@ -1,9 +1,10 @@
 {
   "extends": "../tsconfig.base",
   "compilerOptions": {
-    "removeComments": true
+    "removeComments": true,
+    "outFile": "../js/app.js"
   },
-  "include": [
-    "./**/*"
+  "files": [
+    "./app.ts"
   ]
 }
